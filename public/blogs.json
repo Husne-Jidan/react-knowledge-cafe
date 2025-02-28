@@ -1,53 +1,44 @@
 [
     {
       "id": 1,
-      "cover_photo": "https://source.unsplash.com/600x400/?technology",
+      "cover_photo": "https://i.ibb.co.com/wrRBQ7Cn/2.png",
       "title": "Mastering React in 2025",
       "author": "John Doe",
       "author_img": "https://randomuser.me/api/portraits/men/1.jpg",
-      "posted_date": "2025-02-27",
+      "posted_date": "27 Feb 2025",
       "reading_time": 10,
       "hashtag": ["#React", "#JavaScript", "#WebDevelopment"]
     },
     {
       "id": 2,
-      "cover_photo": "https://source.unsplash.com/600x400/?coding",
+      "cover_photo": "https://i.ibb.co.com/sZ3Kzws/1.jpg",
       "title": "Next.js: The Future of Web Development",
       "author": "Alice Smith",
       "author_img": "https://randomuser.me/api/portraits/women/2.jpg",
-      "posted_date": "2025-02-25",
+      "posted_date": "25 Feb 2025",
       "reading_time": 8,
       "hashtag": ["#Next.js", "#Frontend", "#Web"]
     },
     {
       "id": 3,
-      "cover_photo": "https://source.unsplash.com/600x400/?ai",
+      "cover_photo": "https://i.ibb.co.com/vCTrQFqL/3.png",
       "title": "AI Revolution in 2025",
       "author": "Michael Johnson",
       "author_img": "https://randomuser.me/api/portraits/men/3.jpg",
-      "posted_date": "2025-02-20",
+      "posted_date": "20 Feb 2025",
       "reading_time": 12,
       "hashtag": ["#AI", "#MachineLearning", "#Tech"]
     },
     {
       "id": 4,
-      "cover_photo": "https://source.unsplash.com/600x400/?design",
+      "cover_photo": "https://i.ibb.co.com/p61pnCzx/4.jpg",
       "title": "UI/UX Design Trends 2025",
       "author": "Emily Clark",
       "author_img": "https://randomuser.me/api/portraits/women/4.jpg",
-      "posted_date": "2025-02-15",
+      "posted_date": "15 Feb 2025",
       "reading_time": 6,
       "hashtag": ["#UIUX", "#Design", "#Creativity"]
-    },
-    {
-      "id": 5,
-      "cover_photo": "https://source.unsplash.com/600x400/?business",
-      "title": "Startup Growth Hacks for 2025",
-      "author": "David Brown",
-      "author_img": "https://randomuser.me/api/portraits/men/5.jpg",
-      "posted_date": "2025-02-10",
-      "reading_time": 15,
-      "hashtag": ["#Startup", "#Business", "#Growth"]
     }
   ]
+      
   
